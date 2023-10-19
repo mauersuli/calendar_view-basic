@@ -30,23 +30,23 @@
             events: [
                 { // Events - this object will be "parsed" into an Event Object
                 title: 'Team awards - Global corp', // a property!
-                start: '2023-10-06T14:30:00', // a property!
-                end: '2023-10-06T15:30:00',
+                start: '2023-10-20T14:30:00', // a property!
+                end: '2023-10-20T15:30:00',
                 description:'Team awards - Global corp',
                 allDay: false,
                 color: '#18A0FB',
                 },
                 { // Charities - this object will be "parsed" into an Event Object
                 title: 'Betta goodwill drive', // a property!
-                start: '2023-10-06T14:45:00', // a property!
-                end: '2023-10-06T18:45:00',
+                start: '2023-10-20T14:45:00', // a property!
+                end: '2023-10-20T18:45:00',
                 allDay: false,
                 color: '#7A66FF',
                 },
                 { // Catering - this object will be "parsed" into an Event Object
                 title: 'ACME org catering ', // a property!
-                start: '2023-10-06T10:30:00', // a property!
-                end: '2023-10-06T15:30:00',
+                start: '2023-10-20T10:30:00', // a property!
+                end: '2023-10-20T15:30:00',
                 allDay: false,
                 color: '#1BC47D',
                 }
